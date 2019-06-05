@@ -1,0 +1,207 @@
+.navbar-default {
+  background-color: #68B52A;
+  border-color: #68B52A !important;
+  /* font-weight: bold; */
+}
+
+.navbar-default .nav > li > a:focus,
+.navbar-default .nav > li > a:hover,
+.navbar-default .nav > li.active > a {
+  background-color: #49920D;
+  border-color: #49920D !important;
+  color: #fff;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #fff;
+}
+
+.navbar-default .navbar-nav>.open>a, 
+.navbar-default .navbar-nav>.open>a:focus, 
+.navbar-default .navbar-nav>.open>a:hover {
+  color: #fff;
+  background-color: #49920D;
+}
+
+.navbar-default .navbar-nav>.active>a {
+color: #fff;
+}
+.navbar-default .navbar-brand {
+  color: #fff;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>.active>a:hover {
+  color: #fff;
+  background-color: #49920D;
+}
+
+.user-info {
+  width: 100% !important;
+  height: 200px !important;
+}
+
+.info-contest-round {
+  margin-top: 50px;
+}
+
+.table-contest-round {
+  border:1px solid white;
+  border-collapse:collapse ;
+  padding:0px;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.th-table-user {
+  padding:10px;
+  border:1px solid white;
+  text-align:center;
+  height: 70px;
+  background-color: #48910E;
+  color: white;
+  vertical-align: middle;
+}
+
+.th-table-result {
+  padding:10px;
+  border:1px solid white;
+  text-align:center;
+  background-color: #48910E;
+  color: white;
+  vertical-align: middle;
+}
+
+td {
+  padding:10px;
+  border:1px solid white;
+  text-align:center;
+}
+
+.tr-table-user {
+  background-color:#FEDEDE;
+  text-align:center;
+}
+
+.table-contest-round {
+  width:100%;
+  height:100%;
+  text-align: center;
+  margin-bottom: 150px;
+}
+
+.footer-user {
+  /* position: absolute; */
+  bottom: 0;
+  height: 200px;
+  background-color: #152026;
+  width: 100%;
+}
+
+.info-contest_round {
+  font-size: 17px;
+}
+
+.question-contest-round {
+  margin-bottom: 50px;
+}
+
+.timer-quiz {
+  color: red;
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+  font-size: 35px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 80%;
+}
+
+.title-timer {
+  margin-top: 10px;
+  float: left;
+  width: 10%;
+}
+
+.btn-submit-contest {
+  text-align: center;
+  margin-top: 15px;
+}
+
+.show-result > img {
+  display: block;
+  margin: 0 auto;
+  width: 50%;
+}
+
+.text-result {
+  font-size: 20px;
+  text-align: center;
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.radio-true {
+  background-color: #DFF1D8;
+}
+
+.active-user {
+  background-color: #DFF1D8;
+}
+
+.color-content {
+  color: #48910E;
+}
+
+.form-edit-profile > h4 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.form-edit-profile > h5 {
+  margin-bottom: 20px;
+}
+
+.input-edit-user {
+  margin-bottom: 15px;
+}
+
+.btn-custom {
+  color: #fff;
+  background-color: #48910E;
+}
+
+.info-header {
+  margin-top: 80px;
+  color: #fff;
+  text-align: center;
+}
+
+.content-site {
+    min-height: 450px;
+}
+
+.header-logo {
+    width: 150px;
+}
+
+.img-logo {
+    width: 100px;
+}
+
+.content-header {
+    float: left;
+}
+
+.align {
+    text-align: center;
+}
+
+.text-radio-result {
+  margin-left: 10px;
+}
+
+
+.control-label {
+  margin-left: 0;
+}
